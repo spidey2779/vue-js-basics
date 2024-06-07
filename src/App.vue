@@ -1,8 +1,7 @@
 <script setup>
-import TodoList from "./components/TodoList.vue/TodoList.vue"
+import RandomQuote from './components/RandomQuotes/RandomQuote.vue'
 </script>
 
 <template>
-  <TodoList/>
-
+  <RandomQuote />
 </template>
