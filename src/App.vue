@@ -1,7 +1,7 @@
 <script setup>
-import Calculator from './components/Calculator/Calculator.vue'
+import Accordian from "./components/Accordian/Accordian.vue"
 </script>
 
 <template>
-    <Calculator/>
+    <Accordian/>
 </template>
