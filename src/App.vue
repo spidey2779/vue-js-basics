@@ -1,7 +1,7 @@
 <script setup>
-import RandomQuote from './components/RandomQuotes/RandomQuote.vue'
+import Calculator from './components/Calculator/Calculator.vue'
 </script>
 
 <template>
-  <RandomQuote />
+    <Calculator/>
 </template>
