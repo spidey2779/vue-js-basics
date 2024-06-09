@@ -1,6 +1,6 @@
 <script setup>
-import Steps from './components/Steps/Steps.vue'
+import DadJoke from './components/DadJoke/DadJoke.vue'
 </script>
 <template>
-  <Steps />
+  <DadJoke />
 </template>
