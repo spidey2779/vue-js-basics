@@ -1,7 +1,6 @@
 <script setup>
-import PasswordGenerator from './components/PasswordGenerator/PasswordGenerator.vue'
+import Steps from './components/Steps/Steps.vue'
 </script>
-
 <template>
-    <PasswordGenerator/>
+  <Steps />
 </template>
