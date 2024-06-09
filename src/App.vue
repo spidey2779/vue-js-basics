@@ -1,7 +1,7 @@
 <script setup>
-import Accordian from "./components/Accordian/Accordian.vue"
+import Form from './components/Form/Form.vue'
 </script>
 
 <template>
-    <Accordian/>
+    <Form/>
 </template>
