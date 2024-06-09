@@ -1,7 +1,7 @@
 <script setup>
-import Form from './components/Form/Form.vue'
+import PasswordGenerator from './components/PasswordGenerator/PasswordGenerator.vue'
 </script>
 
 <template>
-    <Form/>
+    <PasswordGenerator/>
 </template>
