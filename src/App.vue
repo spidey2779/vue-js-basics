@@ -1,6 +1,6 @@
 <script setup>
-import DadJoke from './components/DadJoke/DadJoke.vue'
+ import Profile from "./components/GitHubProfileSearch/ProfileSearch.vue"
 </script>
 <template>
-  <DadJoke />
+    <Profile/>
 </template>
